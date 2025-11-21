@@ -17,9 +17,19 @@ Here are some ideas to get you started:
 
 Меня зовут Александр, я люблю разработку, Linux и open source.
 
-### Мой стек
+### Мой стек и окружение
 
 * Python
+  * Django REST framework
+  * Djamgo ORM
+  * python-telegram-bot
 * bash
+* Linux
+
+OS: Arch Linux
+DE: KDE Plasma
+IDE: Code - OSS
+
+### Ссылки и украшения
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cuberbug&theme=synthwave&show_icons=true)
