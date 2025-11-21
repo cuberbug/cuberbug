@@ -26,8 +26,10 @@ Here are some ideas to get you started:
 * bash
 * Linux
 
-OS: Arch Linux
-DE: KDE Plasma
+---
+
+OS: Arch Linux<br>
+DE: KDE Plasma<br>
 IDE: Code - OSS
 
 ### Ссылки и украшения
