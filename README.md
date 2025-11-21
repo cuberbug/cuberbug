@@ -16,3 +16,10 @@ Here are some ideas to get you started:
 -->
 
 Меня зовут Александр, я люблю разработку, Linux и open source.
+
+### Мой стек
+
+* Python
+* bash
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cuberbug&theme=synthwave&show_icons=true)
