@@ -21,10 +21,11 @@ Here are some ideas to get you started:
 
 * Python
   * Django REST framework | Djamgo ORM
-  * pytest
+  * pytest | unittest
   * python-telegram-bot
 * Bash
 * Linux
+* Docker | Docker Compose
 * SQLite | PostgreSQL
 
 desktop:<br>
@@ -39,8 +40,8 @@ mobile:<br>
 
 ### Ссылки и украшения
 
+[Telegram](https://t.me/cuberbug) | [X](https://x.com/cuberbug)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cuberbug&theme=synthwave&show_icons=true)
 
-🎧 Любимые плейлисты:
-- [🌆 Synthwave](https://music.yandex.ru/playlists/cfac75d7-5e76-deae-a1bf-5293f659d3e7?utm_source=desktop&utm_medium=copy_link)
-- [👾 Cyberpunk](https://music.yandex.ru/playlists/57e5f066-28a3-cce2-ad9f-62aaed618bc4?utm_source=desktop&utm_medium=copy_link)
+🎧 Любимые плейлисты: [🌆 Synthwave](https://music.yandex.ru/playlists/cfac75d7-5e76-deae-a1bf-5293f659d3e7?utm_source=desktop&utm_medium=copy_link) | [👾 Cyberpunk](https://music.yandex.ru/playlists/57e5f066-28a3-cce2-ad9f-62aaed618bc4?utm_source=desktop&utm_medium=copy_link)
