@@ -40,7 +40,8 @@ mobile:<br>
 
 ### Ссылки и украшения
 
-[Telegram](https://t.me/cuberbug) | [X](https://x.com/cuberbug) | Discord: `@cuberbug` | [Steam](https://steamcommunity.com/id/cuberbug/)
+[Telegram](https://t.me/cuberbug) | [X](https://x.com/cuberbug) | [Steam](https://steamcommunity.com/id/cuberbug/) <br>
+Discord: `@cuberbug`
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cuberbug&theme=synthwave&show_icons=true)
 
