@@ -25,6 +25,7 @@ Here are some ideas to get you started:
   * python-telegram-bot
 * Bash
 * Linux
+* Git | GitHub | GitHub Actions
 * Docker | Docker Compose
 * SQLite | PostgreSQL
 
