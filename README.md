@@ -28,19 +28,16 @@ Here are some ideas to get you started:
 * Docker | Docker Compose
 * SQLite | PostgreSQL
 
-desktop:<br>
-├── OS: Arch Linux<br>
-├── DE: KDE Plasma<br>
-└── IDE: Code - OSS
-
-mobile:<br>
-├── device: Xiaomi POCO F2 Pro<br>
-├── OS: LineageOS 22.2<br>
-└── Android: 15
+| desktop | | | mobile | |
+| ---: | :--- | --- | ---: | :--- |
+| OS | Arch Linux | | device | Xiaomi POCO F2 Pro |
+| DE | KDE Plasma | | OS | LineageOS 22.2 |
+| IDE | Code - OSS | | Android | 15 |
 
 ### Ссылки и украшения
 
-[Telegram](https://t.me/cuberbug) | [X](https://x.com/cuberbug) | [Steam](https://steamcommunity.com/id/cuberbug/) <br>
+[Telegram](https://t.me/cuberbug) | [X](https://x.com/cuberbug) | [Steam](https://steamcommunity.com/id/cuberbug/)
+
 Discord: `@cuberbug`
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cuberbug&theme=synthwave&show_icons=true)
