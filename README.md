@@ -1,46 +1,49 @@
-## Всем привет! 👋
+## 👋 Всем привет!
 
-<!--
-**cuberbug/cuberbug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Меня зовут **Александр Кубышин**, я люблю разработку, open source и новые технологии.<br>
+Интересуюсь ИИ, научно-популяризаторским контентом по космологии, астрономии, физике и биологии, а также компьютерным железом и инвестированием.
+Свободное время провожу в работе над пет-проектами, в TG-чатах и на YouTube, иногда в компьютерных играх, за чтением ранобэ или просмотром аниме.
 
-Here are some ideas to get you started:
+### 🔥 Об актуальном
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+В настоящее время **активно ищу работу** в области разработки!
 
-Меня зовут Александр, я люблю разработку, open source и новые технологии.
+Изучаю Bash и применяю новые знания на практике в лаунчере своего пет-проека
+[cuberbug-walls](https://github.com/cuberbug/cuberbug-walls).<br>
+Сначала это был простой скрипт для открытия нового окна терминала и запуска в нём другого скрипта, но со временем он превратился в полноценный CLI-инструмент в виде монолита на 700 строк кода, после чего был переработан под модульную архитектуру.
+Сейчас развитие лаунчера продолжается: он становится надёжнее и обретает новые фичи.
 
-### Мой стек и окружение
+Также я практикуюсь и в Python в рамках пет-проекта
+[repo-tools](https://github.com/cuberbug/repo-tools),
+который подключается к **cuberbug-walls** в качестве сабмодуля и предоставляет набор утилит на Python, собранных в интерактивном TUI-интерфейсе, откуда их можно удобно запускать.  
+Проект нуждается в доработке и обязательно станет лучше в ближайшее время!
 
-* Python
+### 🛠️ Мой стек и окружение
+
+* **Python**
   * Django REST framework | Djamgo ORM
   * pytest | unittest
   * python-telegram-bot
-* Bash
-* Linux
+* **Bash**
+* **Linux**
 * Git | GitHub | GitHub Actions
 * Docker | Docker Compose
 * SQLite | PostgreSQL
 
-| desktop | | | mobile | |
+| 💻 desktop | | | 📱 mobile | |
 | ---: | :--- | --- | ---: | :--- |
 | OS | Arch Linux | | device | Xiaomi POCO F2 Pro |
 | DE | KDE Plasma | | OS | LineageOS 22.2 |
 | IDE | Code - OSS | | Android | 15 |
 
-### Ссылки и украшения
+### 🔗 Ссылки и украшения
 
-[Telegram](https://t.me/cuberbug) | [X](https://x.com/cuberbug) | [Steam](https://steamcommunity.com/id/cuberbug/)
+[Telegram](https://t.me/cuberbug) | [X (Twitter)](https://x.com/cuberbug) | [Steam](https://steamcommunity.com/id/cuberbug/)
 
 Discord: `@cuberbug`
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cuberbug&theme=synthwave&show_icons=true)
 
-🎧 Любимые плейлисты: [🌆 Synthwave](https://music.yandex.ru/playlists/cfac75d7-5e76-deae-a1bf-5293f659d3e7?utm_source=desktop&utm_medium=copy_link) | [👾 Cyberpunk](https://music.yandex.ru/playlists/57e5f066-28a3-cce2-ad9f-62aaed618bc4?utm_source=desktop&utm_medium=copy_link)
+🎧 Любимые плейлисты:
+[🌆 Synthwave](https://music.yandex.ru/playlists/cfac75d7-5e76-deae-a1bf-5293f659d3e7?utm_source=desktop&utm_medium=copy_link) |
+[👾 Cyberpunk](https://music.yandex.ru/playlists/57e5f066-28a3-cce2-ad9f-62aaed618bc4?utm_source=desktop&utm_medium=copy_link)
