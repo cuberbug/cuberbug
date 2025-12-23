@@ -43,7 +43,17 @@
 
 Discord: `@cuberbug`
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cuberbug&theme=synthwave&show_icons=true)
+<picture>
+  <source
+    srcset="https://github-readme-stats-seven-pied-88.vercel.app/api?username=cuberbug&show_icons=true&theme=catppuccin_mocha"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-seven-pied-88.vercel.app/api?username=cuberbug&show_icons=true&theme=catppuccin_latte"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=cuberbug&show_icons=true" />
+</picture>
 
 🎧 Любимые плейлисты:
 [🌆 Synthwave](https://music.yandex.ru/playlists/cfac75d7-5e76-deae-a1bf-5293f659d3e7?utm_source=desktop&utm_medium=copy_link) |
