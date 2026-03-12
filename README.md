@@ -34,8 +34,8 @@
 | desktop | 💻 | | mobile | 📱 |
 | ---: | :--- | --- | ---: | :--- |
 | OS | Arch Linux | | device | Xiaomi POCO F2 Pro |
-| DE | KDE Plasma | | OS | LineageOS 22.2 |
-| IDE | Code - OSS | | Android | 15 |
+| DE | KDE Plasma | | OS | LineageOS 23.2 |
+| IDE | Code - OSS | | Android | 16 |
 
 ### 🔗 Ссылки и украшения
 
