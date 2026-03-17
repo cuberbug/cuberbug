@@ -33,7 +33,7 @@
   * Django REST framework | Djamgo ORM
   * pytest | unittest
   * python-telegram-bot
-* **Bash**
+* **Bash** | fish
 * **Linux**
 * Git | GitHub | GitHub Actions
 * Docker | Docker Compose
