@@ -1,72 +1,79 @@
-## 👋 Всем привет!
+# 🛰️ Привет, мир! Меня зовут Александр.
+Backend-разработчик, люблю open source, автоматизацию, новые технологии и создание странных README.
+* **Интересы:** искусственный интеллект, наука и поп-наука, хардварные технологии, японская культура и инвестирование.
+* **Хобби:** риичи-маджонг 🀄
 
-Меня зовут **Александр Кубышин**, я люблю разработку, open source и новые технологии.
+## 💻 Технический стек
+[![My Skills](https://skillicons.dev/icons?i=py,django,postgres,docker,linux,bash,git,html)](https://skillicons.dev)
 
-Интересуюсь ИИ, научно-популяризаторским контентом по космологии, астрономии, физике и биологии, а также компьютерным железом и инвестированием.
-Свободное время провожу в работе над пет-проектами, в TG-чатах и на YouTube, иногда в компьютерных играх, за чтением ранобэ или просмотром аниме.
+### 🛠️ Окружение и инструменты
+[![My Skills](https://skillicons.dev/icons?i=arch,debian,github,vscode,obsidian)](https://skillicons.dev)
 
-Хобби: риичи-маджонг.
+## 🚀 Проекты и занятость
+🔥 **Открыт к предложениям:** Нахожусь в активном поиске full-time позиций в сфере разработки. Быстро вникаю в новые экосистемы и ценю чистый код.
 
-### 🔥 Об актуальном
+### 🧪 Выполненные тестовые задания
+* [task-workmate-python](https://github.com/cuberbug/task-workmate-python) — Скрипт для парсинга и агрегации данных из CSV-файлов с генерацией аналитических отчётов. Реализовано полное покрытие ключевого функционала модульными тестами.
 
-В настоящее время **активно ищу работу** в области разработки!
+### 🐾 Пет-проекты
+* [cuberbug-walls](https://github.com/cuberbug/cuberbug-walls) — Репозиторий-экосистема для управления коллекцией обоев. Включает интерактивную навигацию с табличными превью прямо в GitHub и комплекс автоматизации: CLI/TUI-утилиты для обработки медиафайлов, генераторы разметки и скрипты обслуживания репозитория.
 
-**Изучаю Bash** и применяю новые знания на практике в лаунчере своего пет-проека
-[cuberbug-walls](https://github.com/cuberbug/cuberbug-walls).  
-Сначала это был простой скрипт для открытия нового окна терминала и запуска в нём другого скрипта, но со временем он превратился в полноценный CLI-инструмент в виде монолита на 700 строк кода, после чего был переработан под модульную архитектуру.  
-✅ Статус: _развитие лаунчера продолжается, он становится надёжнее и обретает новые фичи._
+---
 
-Также я **практикуюсь и в Python** в рамках пет-проекта
-[repo-tools](https://github.com/cuberbug/repo-tools),
-который подключается к **cuberbug-walls** в качестве сабмодуля и предоставляет набор утилит на Python, собранных в интерактивном TUI-интерфейсе, откуда их можно удобно запускать.  
-✅ Статус: _основной функционал готов, но ещё есть что улучшить._
+<table>
+  <thead>
+    <tr>
+      <th style="white-space: nowrap;"><b>🔮 Контакты</b></th>
+      <th style="white-space: nowrap;"><b>⭐ GitHub</b></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <a href="https://t.me/cuberbug">
+          <img src="https://img.shields.io/badge/Telegram-cuberbug-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
+        </a>
+      </td>
+      <td rowspan="4" align="center">
+        <picture>
+          <source
+            srcset="https://github-readme-stats-seven-pied-88.vercel.app/api?username=cuberbug&show_icons=true&theme=catppuccin_mocha"
+            media="(prefers-color-scheme: dark)"
+          />
+          <source
+            srcset="https://github-readme-stats-seven-pied-88.vercel.app/api?username=cuberbug&show_icons=true&theme=catppuccin_latte"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+          />
+          <img src="https://github-readme-stats.vercel.app/api?username=cuberbug&show_icons=true" alt="GitHub Stats" />
+        </picture>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://discord.com/users/291874209691467776">
+          <img src="https://img.shields.io/badge/Discord-cuberbug-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://x.com/cuberbug">
+          <img src="https://img.shields.io/badge/Twitter-cuberbug-000000?style=for-the-badge&logo=x&logoColor=white">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://steamcommunity.com/id/cuberbug">
+          <img src="https://img.shields.io/badge/Steam-cuberbug-1b2838?style=for-the-badge&logo=steam&logoColor=white">
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-**GitHub Actions** (Python)  
-Используется для автоматизации рутинных задач в
-[cuberbug-walls](https://github.com/cuberbug/cuberbug-walls).  
-Сейчас это генерация таблицы с превью изображений при помощи скрипта на Python.
-Планируется увеличение гибкости настройки генерации превью, а также отдельный модуль для генерации блока навигации для ридми-файлов проекта.
+---
 
-#### 💼 Выполненные тестовые
-
-* [task-workmate-python](https://github.com/cuberbug/task-workmate-python) — обработка CSV-файлов с выводом отчётов на основе полученных данных. Написание тестов, покрывающих основной функционал приложения.
-
-### 🛠️ Мой стек и окружение
-
-* **Python**
-  * Django REST framework | Djamgo ORM
-  * pytest | unittest
-  * python-telegram-bot
-* **Bash** | fish
-* **Linux**
-* Git | GitHub | GitHub Actions
-* Docker | Docker Compose
-* SQLite | PostgreSQL
-
-| desktop | 💻 | | mobile | 📱 |
-| ---: | :--- | --- | ---: | :--- |
-| OS | Arch Linux | | device | Xiaomi POCO F2 Pro |
-| DE | KDE Plasma | | OS | LineageOS 23.2 |
-| IDE | Code - OSS | | Android | 16 |
-
-### 🔗 Ссылки и украшения
-
-[Telegram](https://t.me/cuberbug) | [X (Twitter)](https://x.com/cuberbug) | [Steam](https://steamcommunity.com/id/cuberbug/)
-
-Discord: `@cuberbug`
-
-<picture>
-  <source
-    srcset="https://github-readme-stats-seven-pied-88.vercel.app/api?username=cuberbug&show_icons=true&theme=catppuccin_mocha"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats-seven-pied-88.vercel.app/api?username=cuberbug&show_icons=true&theme=catppuccin_latte"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=cuberbug&show_icons=true" />
-</picture>
-
-🎧 Любимые плейлисты:
+🎧 **Плейлисты для кодинга:**
 [🌆 Synthwave](https://music.yandex.ru/playlists/cfac75d7-5e76-deae-a1bf-5293f659d3e7?utm_source=desktop&utm_medium=copy_link) |
 [👾 Cyberpunk](https://music.yandex.ru/playlists/57e5f066-28a3-cce2-ad9f-62aaed618bc4?utm_source=desktop&utm_medium=copy_link)
